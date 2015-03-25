@@ -107,7 +107,7 @@ Where φ is latitude, λ is longitude, R is Earth's radius
 * Keyhole Markup Language - Google, .kml, .kmz 
 * OSM - OpenStreetMap, .osm
 * WKT - "well-known text", .wkt, .wkb
-* CSV
+* CSV - "comma-separated values"
 
 ---
 
@@ -229,9 +229,43 @@ Itinerarium
 
 <http://ryanfb.github.io/itinerarium/>
 
+---
 
 [Distribution of texts/collections in Trismegistos](http://bl.ocks.org/ryanfb/4ef9795dcfc8063a2e99)
 <iframe data-src="http://bl.ocks.org/ryanfb/raw/4ef9795dcfc8063a2e99/" width="1024" height="768"></iframe>
+
+
+![TM Addresses](../assets/Geomining_the_Ancient_World/tm_addresses.png)
+
+
+![TM Geocoded](../assets/Geomining_the_Ancient_World/tm_geocoded.png)
+
+
+<!-- .slide: data-background="../assets/Geomining_the_Ancient_World/tm_earth.jpg" -->
+
+
+![make earth.json](../assets/Geomining_the_Ancient_World/make_earth.png)
+
+
+![d3](../assets/Geomining_the_Ancient_World/d3.png)
+
+
+[Distribution of texts/collections in Trismegistos](http://bl.ocks.org/ryanfb/4ef9795dcfc8063a2e99)
+<iframe data-src="http://bl.ocks.org/ryanfb/raw/4ef9795dcfc8063a2e99/" width="1024" height="768"></iframe>
+
+---
+
+#### [Data science done well looks easy](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
+
+1. Define the question of interest<!-- .element: class="fragment" -->
+2. Get the data<!-- .element: class="fragment" -->
+3. Clean the data<!-- .element: class="fragment" -->
+4. Explore the data<!-- .element: class="fragment" -->
+5. Fit statistical models<!-- .element: class="fragment" -->
+6. Communicate the results<!-- .element: class="fragment" -->
+7. Make your analysis reproducible<!-- .element: class="fragment" -->
+
+<blockquote class="fragment">"After a ton of work like that, you have a nice set of data to which you fit simple statistical models and then it looks <strong>super easy</strong> to someone who either doesn't know about the data collection and cleaning process or doesn't care."</blockquote>
 
 ---
 

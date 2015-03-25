@@ -27,7 +27,13 @@
 
 ![idp.data blame for p.naqlun.2.21](../assets/Shifting_Frontiers/blame.png)
 
+---
 
 > “We no longer see IDP as representing at any given moment a synthesis of fixed data sources directed by a central management; rather, we see it as a constantly changing set of fully open data sources governed by the scholarly community and maintained by all active scholars who care to participate. One might go so far as to say that we see this nexus of papyrological resources as ceasing to be “projects” and turning instead into a community.”
 
 —Roger Bagnall
+
+
+> “The decision to stop handing over ownership of new textual data (and especially any textual data produced with any significant measure of public funding) is, in 2015, a purely political one.”
+
+—Gregory Crane
