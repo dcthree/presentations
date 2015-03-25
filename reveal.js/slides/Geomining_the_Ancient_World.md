@@ -115,10 +115,25 @@ Where φ is latitude, λ is longitude, R is Earth's radius
 * QGIS
 * GDAL
 * R
-* D3
+* D3, Leaflet, Mapbox, Google Maps
 * GRASS GIS
 * GeoRefine
-* ArcGIS 👎
+* PostGIS
+* ArcGIS 👎<!-- .element: class="fragment" -->
+
+---
+
+# Geocoding
+* Geocoding - name to geospatial data<!-- .element: class="fragment" -->
+* Reverse-Geocoding - geospatial data to name<!-- .element: class="fragment" -->
+
+
+# Geocoding Resources
+* Google Fusion Tables
+* <http://www.findlatitudeandlongitude.com/batch-geocode/>
+* <http://sandbox.idre.ucla.edu/geocoder/>
+* Google, Mapquest, Yahoo, Bing APIs
+* Google Earth Pro (now free)
 
 ---
 
@@ -136,6 +151,10 @@ Where φ is latitude, λ is longitude, R is Earth's radius
 
 ![Al-Thurayya](../assets/Geomining_the_Ancient_World/althurayya.jpg)
 <http://maximromanov.github.io/althurayya/>
+
+
+![Syriac Gazetteer](../assets/Geomining_the_Ancient_World/syriaca.jpg)
+<http://syriaca.org/geo/>
 
 
 ![AWMC](../assets/Geomining_the_Ancient_World/awmc.jpg)
@@ -157,17 +176,25 @@ Where φ is latitude, λ is longitude, R is Earth's radius
 
 #### Pelagios Datasets
 * Pelagios 3 - Early Geospatial Documents
+* CLAROS - art and archaeology
 * American Numismatic Society - coins
+* Arachne - German Archaeological Institute
 * Open Context - research data in archaeology
-* AIAC Fasti Online - archaeological excavations
 * Epigraphic Database Heidelberg - Latin inscriptions
 * Papyri.info - places of origin & findspots for papyri
+* Nomisma.org - numsimatic concepts
 * Flickr Machine Tags - images
+
+
+#### Pelagios Datasets
 * Google Ancient Places - Classical texts from Google Books
 * Pleiades Annotations in the Perseus Digital Library
+* Portable Antiquities Scheme - archaeological objects
+* AIAC Fasti Online - archaeological excavations
 * SPQR - inscriptions
 * Omnes Viae - road network of the Tabula Peutingeriana
 * Vici.org - places, findspots, buildings
+* Ure Museum - Greek archaeology
 * Digital Atlas of the Roman Empire
 
 
@@ -190,6 +217,10 @@ Pleiades+
 ![Pleiades+](../assets/Geomining_the_Ancient_World/pleiades_plus.jpg)
 
 <http://pleiades-plus-gazcomp.appspot.com/>
+
+
+<!-- .slide: data-background="../assets/Geomining_the_Ancient_World/vicarello.jpg" -->
+![Vicarello Itinerary](../assets/Geomining_the_Ancient_World/vicarello_map.jpg)<!-- .element: class="fragment" -->
 
 
 Itinerarium
