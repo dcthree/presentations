@@ -107,7 +107,7 @@ Where φ is latitude, λ is longitude, R is Earth's radius
 * Keyhole Markup Language - Google, .kml, .kmz 
 * OSM - OpenStreetMap, .osm
 * WKT - "well-known text", .wkt, .wkb
-* CSV - "comma-separated values"
+* CSV - "comma-separated values", .csv
 
 ---
 
@@ -132,7 +132,7 @@ Where φ is latitude, λ is longitude, R is Earth's radius
 * Google Fusion Tables
 * <http://www.findlatitudeandlongitude.com/batch-geocode/>
 * <http://sandbox.idre.ucla.edu/geocoder/>
-* Google, Mapquest, Yahoo, Bing APIs
+* Google, MapQuest, Yahoo, Bing APIs
 * Google Earth Pro (now free)
 
 ---
