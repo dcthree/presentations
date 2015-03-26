@@ -37,3 +37,43 @@
 > “The decision to stop handing over ownership of new textual data (and especially any textual data produced with any significant measure of public funding) is, in 2015, a purely political one.”
 
 —Gregory Crane
+
+---
+
+![profgender for "shrill"](../assets/Shifting_Frontiers/profgender_shrill.png)
+<http://benschmidt.org/profGender/>
+
+
+![profgender for "arrogant"](../assets/Shifting_Frontiers/profgender_arrogant.png)
+<http://benschmidt.org/profGender/>
+
+
+![profgender for "stupid"](../assets/Shifting_Frontiers/profgender_stupid.png)
+<http://benschmidt.org/profGender/>
+
+---
+
+Postcolonial Digital Humanities<!-- .element: class="fragment" data-fragment-index="1" -->
+
+<http://www.dhpoco.org/><!-- .element: class="fragment" data-fragment-index="1" -->
+
+Global Outlook::Digital Humanities<!-- .element: class="fragment" data-fragment-index="2" -->
+
+<http://www.globaloutlookdh.org/><!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+![Pleiades](../assets/Geomining_the_Ancient_World/pleiades.jpg)
+<http://pleiades.stoa.org/>
+
+
+![Al-Thurayya](../assets/Geomining_the_Ancient_World/althurayya.jpg)
+<http://maximromanov.github.io/althurayya/>
+
+
+![Syriac Gazetteer](../assets/Shifting_Frontiers/syriac_map.jpg)
+<http://syriaca.org/geo/>
+
+---
+
+## What are the digital humanities?
