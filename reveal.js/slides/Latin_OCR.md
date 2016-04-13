@@ -31,7 +31,7 @@
 ![Page Image](../assets/Latin_OCR/example_page_image.png)<!-- .element: style="background: white; width: 250px;" -->
 
 ![Black box OCR](../assets/Latin_OCR/example_black_box.png)<!-- .element: class="fragment" style="background: white; width: 500px;" data-fragment-index="1" -->
-![Latin OCR](../assets/latin_ocr/example_latin_22.png)<!-- .element: class="fragment" style="background: white; width: 500px;" data-fragment-index="2" -->
+![Latin OCR](../assets/Latin_OCR/example_latin_22.png)<!-- .element: class="fragment" style="background: white; width: 500px;" data-fragment-index="2" -->
 
 
 ![Google Book Search "All Languages"](../assets/Latin_OCR/googlebooks.png)<!-- .element: style="background: white; width: 600px;" -->
